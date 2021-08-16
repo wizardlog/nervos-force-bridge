@@ -1,4 +1,4 @@
-# Blockchain workshop
+# Force Bridge Dapp
 
 Start UI:
 
