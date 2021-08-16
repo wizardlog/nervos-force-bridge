@@ -1,0 +1,6 @@
+export const DEPLOYED_CONTRACT_ADDRESS = '0x5Edb8E79E57abE3C00438b5aE2Bd638DD4595D3b';
+export const CKETH_ADDRESS = '0x57E5b107Acf6E78eD7e4d4b83FF76C041d3307b7';
+export const SUDT_ADDRESS = '0xB5166fCFB5FBe0d5A8257D2fbF08c74206522557';
+export const SUDT_ID = 2415;
+export const FORCE_BRIDGE_URL =
+    'https://force-bridge-test.ckbapp.dev/bridge/Ethereum/Nervos?xchain-asset=0x0000000000000000000000000000000000000000';
